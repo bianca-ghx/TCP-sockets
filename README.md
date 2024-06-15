@@ -54,4 +54,4 @@ To use the client-server file transfer system, follow these instructions:
 4. The client writes the received file content to its current directory.
 
 ## Acknowledgements
-This project was developed for the Communication Networks course at POLITEHNICA Bucharest National University of Science and Technology developed to demonstrate the use of TCP sockets for client-server communication in C/C++ and Python.
+This project was developed for the Communication Networks course at POLITEHNICA Bucharest National University of Science and Technology to demonstrate the use of TCP sockets for client-server communication in C/C++ and Python.
